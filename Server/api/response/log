@@ -1,0 +1,28 @@
+
+Configurazione IP di Windows
+
+
+Scheda Ethernet Ethernet:
+
+   Suffisso DNS specifico per connessione: homenet.telecomitalia.it
+   Indirizzo IPv6 locale rispetto al collegamento . : fe80::80c4:8063:a3f7:a63c%4
+   Indirizzo IPv4. . . . . . . . . . . . : 192.168.1.10
+   Subnet mask . . . . . . . . . . . . . : 255.255.255.0
+   Gateway predefinito . . . . . . . . . : 192.168.1.1
+
+Scheda Ethernet Ethernet 2:
+
+   Suffisso DNS specifico per connessione: 
+   Indirizzo IPv6 locale rispetto al collegamento . : fe80::98f0:cf16:62d8:6642%8
+   Indirizzo IPv4. . . . . . . . . . . . : 192.168.56.1
+   Subnet mask . . . . . . . . . . . . . : 255.255.255.0
+   Gateway predefinito . . . . . . . . . : 
+
+hey
+
+hey
+
+tuna
+
+Windows 10 Version: 10.0.17134
+samue
